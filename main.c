@@ -6,6 +6,7 @@ int main(void)
 	printf("Hello, world\n");
 
 	printf("Japanise kopoo\n");
+	printf("Love printf\n");
 	return 0;
 
 }
